@@ -1,0 +1,69 @@
+commit 44640729da7a01bd7cb071f3ca8268980d3b798e
+Author: ale <ale@wtpc.com>
+Date:   Thu Mar 2 15:05:46 2017 -0300
+
+    creamos otro archivo y respondimos el ejercicio
+
+commit 992d92384e0878a5c5e7817ffbf65b210e7b83e9
+Author: ale <ale@wtpc.com>
+Date:   Thu Mar 2 14:59:25 2017 -0300
+
+    correcion de errores
+
+commit e7ad7c2d8ece42f9c119b3c833cd29f56afde072
+Author: ale <ale@wtpc.com>
+Date:   Thu Mar 2 14:54:46 2017 -0300
+
+    agregue la palabra pepe
+
+commit 373ee43e84eddb3d63d1cb9b9e60b94911bda79c
+Author: Pablo Alcain <pabloalcain@users.noreply.github.com>
+Date:   Tue Mar 8 15:18:38 2016 -0300
+
+    Cambiado protocolo por defecto a https
+
+commit ed74bb6320dbdebb61d57904c7d0a495903a6425
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 17:26:12 2015 -0300
+
+    Agregados comandos
+
+commit 5339e096a0b45d8eb03014c8993f7015e9d31cf3
+Merge: ab6622e 5ffe580
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:07:05 2015 -0300
+
+    Merge branch 'charlas'
+
+commit ab6622e0a769968e2725c1d3020d393a88500276
+Merge: 0896d0e c0e2aa2
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:06:59 2015 -0300
+
+    Merge branch 'ejercicios'
+
+commit c0e2aa23c53ae7f5598721342fe40cf3ae3f2caa
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:04:17 2015 -0300
+
+    Agregamos un nuevo archivo
+    
+    Esta vez vemos el ejemplo de un comentario largo, por si los caracteres	del commit no alcanzan, porque tenemos muchas cosas para decir y queremos que el mundo nos oiga y no nos censuren más!
+
+commit 5ffe5807ff4176664af9ec63bf23a2d7198267cf
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:03:11 2015 -0300
+
+    Más cosas de git!
+
+commit 0896d0e6f606a7ad4997e53a2d26e78f121ee656
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:01:21 2015 -0300
+
+    Info de qué hacer
+
+commit de70e76fd2d22c54991dd15a4c4d9aff06ad61cb
+Author: Pablo Alcain <pabloalcain@users.noreply.github.com>
+Date:   Tue Nov 3 09:52:43 2015 -0300
+
+    Initial commit
